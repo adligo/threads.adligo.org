@@ -1,5 +1,9 @@
 # Compiled class file
 *.class
+# Also in Eclipse GitStaging Assume Unchanged
+.project 
+build
+build/
 
 # Log file
 *.log
