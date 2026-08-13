@@ -4,6 +4,8 @@
 .project 
 build
 build/
+bin
+bin/
 
 # Log file
 *.log
